@@ -1,0 +1,65 @@
+INFO:root:pdf_phot2text first 1000 characters: 
+Preface
+
+How to use this JSP
+
+1. JSP 507 is intended as a practical handbook on the application of appraisal and
+evaluation in the MOD. It is designed to be used by staff responsible for producing
+appraisals, and planning and carrying out project evaluations. It is also for those
+overseeing, scrutinising, and reviewing appraisals and evaluation plans. The JSP contains
+advice on the processes involved and the techniques to apply when preparing appraisals
+and evaluations.
+
+2. The JSP is structured in two parts:
+
+a. Part1- Directive, which provides direction that must be followed, in
+accordance with Statute, or Policy mandated by Defence or on Defence by
+Central Governement.
+
+b. Part 2 Guidance, which provides the guidance that will assist the user to
+comply with the Directive.
+
+Training
+
+3. No guide or manual can give all the answers. Training in investment appraisals is
+provided by the Defence Academy who regularly run a two-day training course called
+‘Investment Appraisal Skills’ (E043
+INFO:root:Textract preprocess first 1000 characters: 
+@
+
+Ministry
+of Defence
+
+JSP 507
+Investment Appraisal and Evaluation
+
+Part 1: Directive
+
+ 
+
+JSP 507 Part 1 (V6.0 Jan 14)
+
+ 
+ Foreword
+
+Sound appraisal and evaluation is the key to providing clear and transparent support for
+Evidence-Based Decision Making. Appraisal is the means by which the Department’s
+policy objective of achieving Value for Money is demonstrated. Evaluation of projects,
+programmes and policies post-implementation is important to ensure good practice is
+perpetuated and lessons are learned.
+
+| am pleased to present this updated guide, prepared by the Appraisal and Evaluation
+team within Defence Economics. JSP 507 promulgates the policy requirements and
+comprehensive practical guidance for undertaking appraisal and evaluation, and
+supplements the HM Treasury Green Book — Appraisal and Evaluation in Central
+Government. Whilst in the main intended for practitioners, this guide will also help non-
+practitioners to further their understanding of these tools for decision mak
+INFO:root:Readability Test: 
+Readability Score: 36.73 
+Difficulty Level: Difficult
+INFO:root:New Acronyms Found: 
+['PCR', 'CBA', 'COST', 'STEM', 'BC', 'UK', 'OSD', 'YES', 'FSC', 'PDS', 'VFM', 'ANN', 'PPP', 'MIM', 'NPV', 'PUS', 'OA', 'DE', 'WV', 'MEAT', 'JFC', 'IGBC', 'CEA', 'DG', 'MA', 'IC', 'VAT', 'CAAS', 'IAC', 'JSP', 'TFEU', 'AH', 'AOF', 'ITN', 'DCP', 'EF', 'PB', 'WMI', 'DIO', 'SFO', 'IA', 'FOA', 'IHB', 'ITPD', 'OGC', 'RIPR', 'TU', 'OJEU', 'TLB', 'TBM', 'AE', 'CL', 'AAT', 'PFU', 'PCT', 'CIS', 'TUPE', 'IT', 'MTBF', 'ICT', 'MLB', 'EU', 'ITT', 'SAM', 'AT', 'SRO', 'HM', 'DES', 'DH', 'CLS', 'SMG', 'HOCS', 'MGBC', 'SSUN', 'IPR', 'MOD', 'PSG', 'URD', 'PFI', 'NO']
+INFO:root:Bigram tag suggestions: 
+[('economically', 'advantageous'), ('employee', 'relations'), ('european', 'union'), ('intellectual', 'property'), ('willingness', 'pay')]
+INFO:root:Non-Gender Neutral Terminology Check: 
+['woman', 'chairman', 'policewoman']
