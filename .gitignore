@@ -56,7 +56,6 @@ coverage.xml
 *.pot
 
 # Django stuff:
-*.log
 local_settings.py
 db.sqlite3
 db.sqlite3-journal
@@ -110,9 +109,15 @@ ENV/
 env.bak/
 venv.bak/
 
+#Custom Environments
+alex-pyenv/
+
 # Spyder project settings
 .spyderproject
 .spyproject
+
+# vs code settings
+.vscode
 
 # Rope project settings
 .ropeproject
@@ -127,3 +132,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+nlp-tools/test module.py
